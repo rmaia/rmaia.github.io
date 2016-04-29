@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Maia"
+title                    : "Rafael"
 title_separator          : "-"
 name                     : "Rafael Maia"
 description              : "Simons Junior Fellow"
@@ -61,19 +61,19 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rafael Maia"
   avatar           : "twitvatar250.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Simons Junior Fellow"
+  location         : "Columbia University"
+  email            : "rm32@columbia.edu"
+  uri              : "https://scholar.google.com/citations?user=9WJAHYQAAAAJ"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "rmaia"
   google_plus      :
   keybase          :
   instagram        :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "hylopsar"
   vine             :
   weibo            :
   xing             :
