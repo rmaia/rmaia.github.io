@@ -1,0 +1,30 @@
+---
+layout: page
+title: Research
+---
+
+Phylogenies and interspecific data provide unique information about how evolution has unfolded over deep time. By fitting statistical models to phylogenetic trees, we can gain insight into the long-term dynamics of multiple evolutionary processes working together--in this way, phylogenetic studies can compliment theoretical, observational, and experimental studies in which the temporal scale is usually much shorter. The converse is also true: because the time scale of phylogenetic data is so long, many of the details of evolutionary history will be obscured. The grand challenge of my work is to reconcile disparate types of data and observations at multiple time-scales to form a coherent view of evolutionary change.
+
+My research programme can be divided into three broad, and overlapping, aims:
+
+### Developing, testing, and understanding phylogenetic methods for studying macroevolution
+
+A major aim of my research is to understand precisely how phylogenies can help us understand evolutionary processes. For example, I developed the [first general statistical framework for assessing the absolute, rather than relative, explanatory power of phylogenetic models of continuous trait evolution]({{url}}/pdfs/pennell-amnat-2015.pdf) (also see [here]({{url}}/pdfs/slater-sysbio-2014.pdf)). I also use simulations to evaluate the statistical properties of existing methods (see [here]({{url}}/pdfs/pennell-pone-2012.pdf), [here]({{url}}/pdfs/slater-sysbio-2014.pdf), and [here]({{url}}/pdfs/uyeda-sysbio-2015.pdf)) so researchers using them can have better confidence in their results. In addition, I have synthesized research from across fields to develop novel perspectives on how to interpret evolutionary models (see [here]({{url}}/pdfs/pennell-nyas-2013.pdf), [here]({{url}}/pdfs/pennell-tree-2014.pdf), [here]({{url}}/pdfs/pennell-tree-2014b.pdf), and [here]({{url}}/pdfs/pennell-sysbio-2014.pdf)). Currently, I am working on phylogenetic models to study the evolution of allometries.
+
+### Using phylogenies to investigate the evolution of genome architecture
+
+The focus of my work in phylogenetic comparative methods has largely been on models for the evolution of organismal traits, such as body mass or plant height. However, these same types of phylogenetic models can be employed to study the evolution of genomic structural features. Emerging genomic resources, available for an ever-increasing breadth of taxa, has revealed an astounding amount of variation in the structure and content of genomes.  Understanding how this variation arose is one of the most fascinating problems in modern biology. I think that phylogenetic perspectives can offer unique insights into these proceses.
+
+Through a NESCent working-group collaboration including my current postdoctoral supervisor ([Sally Otto](http://www.zoology.ubc.ca/~otto/)), I have [combined phylogenetic and population genetic approaches to investigate the evolutionary forces that have driven different chromosomes to fuse with one another]({{url}}/pdfs/pennell-plosgen-2015.pdf). We used the results from fitting a largely phenomenological phylogenetic model to a [large curated dataset from fishes and squamate reptiles]({{url}}/pdfs/tree-of-sex.pdf) to exclude whole classes of logically coherent theoretical models from consideration.
+
+In my postdoctoral research, I am following up this work by working from the bottom-up:, deriving novel theoretical evolutionary models of chromosomal evolution. Specifically, I am focusing on how sex-antagonistic selection (when an allele has opposing fitness effects in males and females) shapes patterns of genetic variation and recombination across sex chromosomes. I am pairing this theoretical work with phylogenetic model development--my eventual aim is to use genomic information from multiple species to test the predictions that follow from this model (e.g., does the pattern of genomic variation across the sex chromosomes differ between species in which there is strong sex-antagonistic selection and those where it is less important?; and does it differ in the way our models predict?). Substantial challenges remain: current phylogenetic methods are only loosely tied to population genetic models. Over the next several years, my goal is to tighten such connections where possible and develop entirely new phylogenetic models where gaps remain. 
+
+### Building computational infrastructure for biodiversity sciences
+
+Evolutionary biology and ecology are now data-intensive disciplines. It is an incredibly exciting time to be studying biodiversity. Collecting many types of data is easier than ever and tremendous sums of effort and money have gone towards creating and curating large, public databases. However, the development of computational approaches to handle all this data are still lagging behind; this is especially true of studies that require non-standard data such as phylogenies, taxonomic information, morphological measurements, geographic records, etc.  My research in this area can roughly be divided into two complementary thrusts.
+
+First, I write software to perform statistical analysis on phylogenetic comparative data (see [here](https://github.com/mwpennell/geiger-v2) and [here](https://github.com/mwpennell/arbutus)).
+
+Second, I develop computational infrastructure for handling, manipulating, and sharing biodiversity data. For example, I have: worked out strategies for assessing and mitigating sampling biases in large trait data sets (see [paper]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) and accompanying [software]https://github.com/richfitz/traitfill); written [software](https://github.com/ropensci/chromer) to programmatically access a public database of chromosome counts; and created tools for working with taxonomic information in evolutionary and ecological studies ([paper](http://biorxiv.org/content/early/2015/08/20/024992) here; software [here](https://github.com/richfitz/phyndr) and [here](https://github.com/wcornwell/taxonlookup)). 
+
+
