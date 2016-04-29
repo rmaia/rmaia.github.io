@@ -7,9 +7,8 @@ I am a [Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons
 
 Iridescent colors of bird feathers are among the brightest, most dazzling and diverse visual signals found in animals. My Research investigates how the nanometer-level organization of color-producing structures in bird feathers takes place during feather development, and how this template can be explored to produce new colors and foster the diversification of sexually-selected phenotypes.
 
-[//]: <> (This is also a comment.)
-
+<!---
 [//]:<> (http://www.rafaelmaia.net/wp-content/uploads/2013/01/eu.jpg)
 [//]:<> (http://www.featherfolio.com)
 [//]:<> (ttp://www.rafaelmaia.net/wp-content/uploads/2013/01/Starling-Poster-WEB-300x240.jpg)
-
+--->
