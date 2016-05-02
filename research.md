@@ -1,6 +1,6 @@
 ---
 title: Research
-template: single
+layout: singlenohead
 author_profile: true
 ---
 
