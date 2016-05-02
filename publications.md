@@ -3,52 +3,50 @@ layout: singlenohead
 title: publications
 author_profile: true
 ---
+<img align="right" style="padding-left:25px" src="/images/drawer.jpg">
+**Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ In Press.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12912/abstract) [[pdf]](/pdf/name.pdf)
 
-**Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint and the evolution of coloration in African Starlings. **Evolution**, In Press.
+Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. _Biological Journal of the Linnean Society_ In Press.
 
-Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. **Biological Journal of the Linnean Society**, In Press.
-
-Eliason, C.M., **Maia, R.** and Shawkey, M.D. 2015. Modular color evolution facilitated by a complex nanostructure in birds. [**Evolution**, 69:357-367.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12575/abstract\)
+Eliason, C.M., **Maia, R.** and Shawkey, M.D. 2015. Modular color evolution facilitated by a complex nanostructure in birds. [_Evolution_ 69:357-367.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12575/abstract\) [[pdf]](/pdf/2015-Eliasonetal-Evo.pdf)
  
-Simons, M.\*, **Maia, R.**\*, Leenknegt, B. and Verhulst, S. 2014. Carotenoid-dependent signals and the evolution of plasma carotenoid levels in birds. [**American Naturalist**, 184:741-751.](http://www.jstor.org/stable/10.1086/678402)
+Simons, M.\*, **Maia, R.**\*, Leenknegt, B. and Verhulst, S. 2014. Carotenoid-dependent signals and the evolution of plasma carotenoid levels in birds. [_American Naturalist_ 184:741-751.](http://www.jstor.org/stable/10.1086/678402) [[pdf]](/pdf/2014-Simonsetal-AmNat.pdf)
 
-Manica, L.T., **Maia, R.**, Dias, A., Podos, J. and Macedo, R.H. 2014. Vocal output predicts territory quality in a Neotropical songbird. [**Behavioral Processes**, 109(A):21-26.](http://www.sciencedirect.com/science/article/pii/S037663571400151X#)
+Manica, L.T., **Maia, R.**, Dias, A., Podos, J. and Macedo, R.H. 2014. Vocal output predicts territory quality in a Neotropical songbird. [_Behavioral Processes_ 109(A):21-26.](http://www.sciencedirect.com/science/article/pii/S037663571400151X#) [[pdf]](/pdf/2014-Manicaetal-BehProc.pdf)
 
-Pessoa, D.M.A., **Maia, R.**, Ajuz, R.C.A., Moraes, P.Z.P.M., Spyrides, M.H.C. and Pessoa, V.F. 2014. The adaptive value of primate color vision for predator detection. [**American Journal of Primatology**, 76:721:729.](http://dx.doi.org/10.1002/ajp.22264\)  
+Pessoa, D.M.A., **Maia, R.**, Ajuz, R.C.A., Moraes, P.Z.P.M., Spyrides, M.H.C. and Pessoa, V.F. 2014. The adaptive value of primate color vision for predator detection. [_American Journal of Primatology_ 76:721:729.](http://dx.doi.org/10.1002/ajp.22264\) [[pdf]](/pdf/2014-Pessoaetal-AJP.pdf)  
 _featured: [globo.com](http://g1.globo.com/natureza/noticia/2014/08/sensibilidade-cores-ajuda-primatas-detectar-predadores-na-natureza.html), [ciencia hoje](http://cienciahoje.uol.com.br/noticias/2014/08/sobrevivencia-colorida)_
 
-**Maia, R.**, Rubenstein, D.R., Shawkey, M.D. 2013. Key ornamental innovations facilitate diversification in an avian radiation. [**Proceedings of the National Academy of Sciences USA** 110:10687–10692.](http://www.pnas.org/content/110/26/10687.abstract)  
+**Maia, R.**, Rubenstein, D.R., Shawkey, M.D. 2013. Key ornamental innovations facilitate diversification in an avian radiation. [_Proceedings of the National Academy of Sciences USA_ 110:10687–10692.](http://www.pnas.org/content/110/26/10687.abstract) [[pdf]](/pdf/2013-Maiaetal-PNAS.pdf)  
 _featured: [Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2013/06/10/on-the-origin-of-really-shiny-species/), [WKSU Exploradio](http://www.wksu.org/news/story/35963), [The Conversation](http://theconversation.com/birds-of-a-feather-create-new-species-together-and-heres-how-15086), [WQED](http://www.wqed.org/birdblog/2013/07/08/african-starlings-invent-new-colors/), [Pantone View](http://www.pantoneview.com/news/speedy-color-change\), [Süddeutsche](http://www.sueddeutsche.de/k5Q38E/1364185/Bunter-Vogel.html), [Eos Wetenschap](http://eoswetenschap.eu/artikel/veelzijdige-verentooi-versnelt-evolutie), [Sci-News](http://www.sci-news.com/biology/article01148-african-starlings.html), [ScienceDaily](http://www.sciencedaily.com/releases/2013/06/130610193029.htm), [PNAS First Look](http://firstlook.pnas.org/birds-color-palettes-speed-diversification/), [uakron](http://www.uakron.edu/im/online-newsroom/news_details.dot?newsId=bf7f09bb-61e7-422b-b407-ca1e2985d41f)_
 
+Sicsú, P., Manica, L.T., **Maia R.** and Macedo, R.H. 2013. Here comes the sun: multimodal displays are associated with sunlight incidence. [_Behavioral Ecology and Sociobiology_ 67:1633-1642.](http://link.springer.com/article/10.1007%2Fs00265-013-1574-x) [[pdf]](/pdf/2013Sicsuetal-BEAS.pdf)
 
-Sicsú, P., Manica, L.T., **Maia R.** and Macedo, R.H. 2013. Here comes the sun: multimodal displays are associated with sunlight incidence. [**Behavioral Ecology and Sociobiology** 67:1633-1642.](http://link.springer.com/article/10.1007%2Fs00265-013-1574-x)
+**Maia, R.**, Eliason, C.M., Bitton, P.-P., Doucet, S.M., Shawkey, M.D. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. [_Methods in Ecology and Evolution_ 4:906-913.](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract) [[pdf]](/pdf/2013-Maiaetal-MEE.pdf)
 
-**Maia, R.**, Eliason, C.M., Bitton, P.-P., Doucet, S.M., Shawkey, M.D. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. [**Methods in Ecology and Evolution** 4:906-913.](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract)
+**Maia, R.**, Brasileiro, L., Lacava, R.V. and Macedo, R.H. 2012. Social environment affects acquisition and color of structural nuptial plumage in a sexually dimorphic tropical passerine. [_PLOS ONE_ 7(10): e47501.](http://dx.doi.org/10.1371/journal.pone.0047501) [[pdf]](/pdf/2012-Maiaetal-PLOSONE.pdf)
 
-**Maia, R.**, Brasileiro, L., Lacava, R.V. and Macedo, R.H. 2012. Social environment affects acquisition and color of structural nuptial plumage in a sexually dimorphic tropical passerine. [PLOS ONE 7(10): e47501.](http://dx.doi.org/10.1371/journal.pone.0047501)
-
-Snyder, H.K., **Maia, R.**, D\'Alba, L., Shultz, A.J., Rowe, K.M.C., Rowe, K.C. and Shawkey, M.D. 2012. Iridescent colour production in hairs of blind golden moles (Chrysochloridae). [**Biology Letters** 8:393-396.](http://rsbl.royalsocietypublishing.org/content/early/2012/01/20/rsbl.2011.1168.abstract)  
+Snyder, H.K., **Maia, R.**, D\'Alba, L., Shultz, A.J., Rowe, K.M.C., Rowe, K.C. and Shawkey, M.D. 2012. Iridescent colour production in hairs of blind golden moles (Chrysochloridae). [_Biology Letters_ 8:393-396.](http://rsbl.royalsocietypublishing.org/content/early/2012/01/20/rsbl.2011.1168.abstract) [[pdf]](/pdf/2012-Snyderetal-BioLet.pdf)  
 _featured: [uakron](http://www.uakron.edu/im/online-newsroom/news_details.dot?newsId=94fcc7dc-d28b-4503-9c9a-c4077d807700andpageTitle=Top+Story+HeadlineandcrumbTitle=Blind+moles+use+beauty+for+function,+not+fancy) , [Nature](http://www.nature.com/nature/journal/v482/n7384/full/482134a.html), [NewScientist](http://www.newscientist.com/article/dn21390-worlds-only-iridescent-mammal-is-a-shiny-accident.html), [Discovery News](http://news.discovery.com/animals/golden-moles-iridescent-122401.html), [Examiner](http://www.examiner.com/green-science-in-akron/akron-scientists-uncover-secrets-of-iridescent-mammal), [popsci](http://www.popsci.com/science/article/2012-01/worlds-only-iridescent-mammal-blind-and-lives-underground) , [msnbc](http://www.msnbc.msn.com/id/46124232/ns/technology_and_science-science/t/worlds-first-iridescent-mammal-discovered/#.TyB1hSNGzcE) , [Yahoo! News  India](http://in.news.yahoo.com/blind-golden-moles-found-worlds-first-iridescent-mammal-114225535.html), [Museum Victoria](http://museumvictoria.com.au/about/mv-blog/jan-2012/moles-of-many-colours/), [Sify News](http://www.sify.com/news/blind-golden-moles-found-to-be-world-s-first-iridescent-mammal-news-international-mbzruIjgibh.html), [Care2](http://www.care2.com/causes/scientists-discover-the-first-iridescent-mammal-and-its-blind.html)_
 
-**Maia, R.**, Macedo, R.H. and Shawkey, M.D. 2012. Nanostructural self-assembly of iridescent feather barbules through depletion attraction of melanosomes during keratinization. [**Journal of the Royal Society Interface** 9:734-743.](http://rsif.royalsocietypublishing.org/content/early/2011/08/17/rsif.2011.0456.abstract)
+**Maia, R.**, Macedo, R.H. and Shawkey, M.D. 2012. Nanostructural self-assembly of iridescent feather barbules through depletion attraction of melanosomes during keratinization. [_Journal of the Royal Society Interface_ 9:734-743.](http://rsif.royalsocietypublishing.org/content/early/2011/08/17/rsif.2011.0456.abstract) [[pdf]](/pdf/2011-Maiaetal-Interface.pdf)
 
-Shawkey, M.D, **Maia, R.** and D’Alba, L. 2011. Proximate bases of silver color in Anhinga (__Anhinga anhinga__) feathers. [**Journal of Morphology** 272:1399-1407.](http://onlinelibrary.wiley.com/doi/10.1002/jmor.10993/abstract)
+Shawkey, M.D, **Maia, R.** and D’Alba, L. 2011. Proximate bases of silver color in Anhinga (__Anhinga anhinga__) feathers. [_Journal of Morphology_ 272:1399-1407.](http://onlinelibrary.wiley.com/doi/10.1002/jmor.10993/abstract) [[pdf]](/pdf/2011-Shawkeyetal-JMorph.pdf)
 
-**Maia, R.**, D’Alba, L. and Shawkey, M.D. 2011. What makes a feather shine? A nanostructural basis for glossy black colours in feathers. [**Proceedings of the Royal Society of London B: Biological Sciences** 278:1973-1980.](http://rspb.royalsocietypublishing.org/content/early/2010/11/30/rspb.2010.1637.abstract)  
+**Maia, R.**, D’Alba, L. and Shawkey, M.D. 2011. What makes a feather shine? A nanostructural basis for glossy black colours in feathers. [_Proceedings of the Royal Society of London B: Biological Sciences_ 278:1973-1980.](http://rspb.royalsocietypublishing.org/content/early/2010/11/30/rspb.2010.1637.abstract) [[pdf]](/pdf/2010-Maiaetal-PRSB.pdf)  
 _featured: [uakron](http://www.uakron.edu/im/online-newsroom/promo_detail.dot?promoId=1628866), [physorg](http://www.physorg.com/news/2010-12-feathers-ideas-gloss.html), [ohioauthority](http://www.ohioauthority.com/articles/health-and-education/brilliant-plumage)_
 
-**Maia, R.** and Macedo, R.H. 2011. Achieving luster: prenuptial molt pattern predicts iridescent structural coloration in blue-black grassquits. [**Journal of Ornithology** 152:243-252.](http://www.springerlink.com/content/82wm863r4v217348/)
+**Maia, R.** and Macedo, R.H. 2011. Achieving luster: prenuptial molt pattern predicts iridescent structural coloration in blue-black grassquits. [_Journal of Ornithology_ 152:243-252.](http://www.springerlink.com/content/82wm863r4v217348/) [[pdf]](/pdf/2010-MaiaMacedo-JORN.pdf)
 
-Lacava, R.V., Brasileiro, L., **Maia, R.**, Oliveira, R.F. and Macedo, R.H. 2010. Social environment affects testosterone in captive male blue-black grassquits. [**Hormones and Behavior** 59:51-55.](http://dx.doi.org/10.1016/j.yhbeh.2010.10.003\)
+Lacava, R.V., Brasileiro, L., **Maia, R.**, Oliveira, R.F. and Macedo, R.H. 2010. Social environment affects testosterone in captive male blue-black grassquits. [_Hormones and Behavior_ 59:51-55.](http://dx.doi.org/10.1016/j.yhbeh.2010.10.003\) [[pdf]](/pdf/2010-Lacavaetal-HormBehav.pdf)
 
-Santos, E.S.A., **Maia, R.** and Macedo, R.H. 2009. Condition dependent resource-value affects male-male competition in the blue-black grassquit. [**Behavioral Ecology** 20:553-559.](http://dx.doi.org/10.1093/beheco/arp031)
+Santos, E.S.A., **Maia, R.** and Macedo, R.H. 2009. Condition dependent resource-value affects male-male competition in the blue-black grassquit. [_Behavioral Ecology_ 20:553-559.](http://dx.doi.org/10.1093/beheco/arp031) [[pdf]](/pdf/2009-Santosetal-BehavEcol.pdf)
 
-**Maia, R.**, Caetano, J.V.O., Báo, S.N. and Macedo, R.H. 2009. Iridescent structural colour production in male blue-black grassquit feather barbules: the role of keratin and melanin. [**Journal of the Royal Society Interface** 6:S203-S211.](http://dx.doi.org/10.1098/rsif.2008.0460.focus)
+**Maia, R.**, Caetano, J.V.O., Báo, S.N. and Macedo, R.H. 2009. Iridescent structural colour production in male blue-black grassquit feather barbules: the role of keratin and melanin. [_Journal of the Royal Society Interface_ 6:S203-S211.](http://dx.doi.org/10.1098/rsif.2008.0460.focus) [[pdf]](/pdf/2009-Maiaetal-Interface.pdf)
 
+Aguilar, T.M., **Maia, R.**, Santos, E.S.A. and Macedo, R.H. 2008. Parasite levels in blue-black grassquits correlate with male displays but not female mate preference. [_Behavioral Ecology_ 19:292-301.](http://beheco.oxfordjournals.org/content/19/2/292.abstract) [[pdf]](/pdf/2008-Aguilaretal-BehavEcol.pdf)
 
-Aguilar, T.M., **Maia, R.**, Santos, E.S.A. and Macedo, R.H. 2008. Parasite levels in blue-black grassquits correlate with male displays but not female mate preference. [**Behavioral Ecology** 19:292-301.](http://beheco.oxfordjournals.org/content/19/2/292.abstract)
-
-Dacier, A., **Maia, R.**, Agustinho, D.P. and Barros, M. 2006. Rapid habituation of scan behavior in captive marmosets following brief predator encounters. [**Behavioural Processes** 71:66-69.](http://dx.doi.org/10.1016/j.beproc.2005.09.006)
+Dacier, A., **Maia, R.**, Agustinho, D.P. and Barros, M. 2006. Rapid habituation of scan behavior in captive marmosets following brief predator encounters. [_Behavioural Processes_ 71:66-69.](http://dx.doi.org/10.1016/j.beproc.2005.09.006) [[pdf]](/pdf/2006-Dacieretal-BehavProc.pdf)
 
 
 ## Invited Chapters
