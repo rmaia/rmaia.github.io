@@ -1,6 +1,6 @@
 ---
 layout: singlenohead
-title: Home
+title: Rafael Maia
 author_profile: true
 ---
 <img align="left" style="padding-right:25px; width:320px" src="/images/Starling-Poster-WEB.jpg"> 
@@ -8,7 +8,7 @@ I am a [Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons
 
 Iridescent colors of bird feathers are among the brightest, most dazzling and diverse visual signals found in animals. My Research investigates how the nanometer-level organization of color-producing structures in bird feathers takes place during feather development, and how this template can be explored to produce new colors and foster the diversification of sexually-selected phenotypes.
 
-CV and info: 
+CV and info: <br>
 <a href="/pdf/RMaia-CV.pdf"><img src="/images/pdf-file-logo-icon.jpg" style="padding:5px; height:50px"></a>
 <a href="https://scholar.google.com/citations?user=9WJAHYQAAAAJ"><img src="/images/GoogleScholar1.jpg" style="padding:5px; height:50px"></a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734001E1"><img src="/images/lattes11.png" style="padding:5px; height:50px"></a> 
