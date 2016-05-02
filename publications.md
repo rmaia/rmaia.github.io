@@ -22,6 +22,9 @@ _featured: [Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/
 
 Sicsú, P., Manica, L.T., **Maia R.** and Macedo, R.H. 2013. Here comes the sun: multimodal displays are associated with sunlight incidence. [_Behavioral Ecology and Sociobiology_ 67:1633-1642.](http://link.springer.com/article/10.1007%2Fs00265-013-1574-x) [[pdf]](/pdf/2013Sicsuetal-BEAS.pdf)
 
+<img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg">
+
+
 **Maia, R.**, Eliason, C.M., Bitton, P.-P., Doucet, S.M., Shawkey, M.D. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. [_Methods in Ecology and Evolution_ 4:906-913.](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract) [[pdf]](/pdf/2013-Maiaetal-MEE.pdf)
 
 **Maia, R.**, Brasileiro, L., Lacava, R.V. and Macedo, R.H. 2012. Social environment affects acquisition and color of structural nuptial plumage in a sexually dimorphic tropical passerine. [_PLOS ONE_ 7(10): e47501.](http://dx.doi.org/10.1371/journal.pone.0047501) [[pdf]](/pdf/2012-Maiaetal-PLOSONE.pdf)
