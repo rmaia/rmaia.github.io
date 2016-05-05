@@ -10,4 +10,6 @@ author_profile: true
 
 [thin-film & multilayer models](http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S203) for simulating color produced by organized structures
 
+[Gists](https://gist.github.com/rmaia): functions and code for easy access or currently under work.
+
 ![](/images/shapeimage_11.png)

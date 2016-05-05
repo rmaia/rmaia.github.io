@@ -4,6 +4,8 @@ title: publications
 author_profile: true
 ---
 <img align="right" style="padding-left:25px" src="/images/drawer.jpg">
+Rubalcaba, J.G., Polo, V., **Maia, R.**, Rubenstein, D.R., Veiga, J.P. 2016. Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. _Journal of Evolutionary Biology_ In Press.
+
 **Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ In Press.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12912/abstract) [[pdf]](/pdf/name.pdf)
 
 Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. _Biological Journal of the Linnean Society_ In Press.
