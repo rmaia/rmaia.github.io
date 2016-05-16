@@ -4,11 +4,11 @@ title: publications
 author_profile: true
 ---
 <img align="right" style="padding-left:25px" src="/images/drawer.jpg">
-Rubalcaba, J.G., Polo, V., **Maia, R.**, Rubenstein, D.R., Veiga, J.P. 2016. Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. [_Journal of Evolutionary Biology_ In Press.](http://dx.doi.org/10.1111/jeb.12893) 
-
 **Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ In Press.](http://dx.doi.org/10.1111/evo.12912) [[pdf]](/pdf/2016-Maiaetal-Evo.pdf)
 
-Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. _Biological Journal of the Linnean Society_ In Press.
+Rubalcaba, J.G., Polo, V., **Maia, R.**, Rubenstein, D.R., Veiga, J.P. 2016. Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. [_Journal of Evolutionary Biology_ In Press.](http://dx.doi.org/10.1111/jeb.12893) 
+
+Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. [_Biological Journal of the Linnean Society_ In Press.](http://dx.doi.org/10.1111/bij.12810) [[pdf]](/pdf/2016-Iskandaretal-BJLS.pdf)
 
 Eliason, C.M., **Maia, R.** and Shawkey, M.D. 2015. Modular color evolution facilitated by a complex nanostructure in birds. [_Evolution_ 69:357-367.](http://dx.doi.org/10.1111/evo.12575) [[pdf]](/pdf/2015-Eliasonetal-Evo.pdf)
  
