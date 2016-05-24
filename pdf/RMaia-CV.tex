@@ -1,0 +1,403 @@
+%------------------------------------
+% Dario Taraborelli
+% Typesetting your academic CV in LaTeX
+%
+% URL: http://nitens.org/taraborelli/cvtex
+% DISCLAIMER: This template is provided for free and without any guarantee 
+% that it will correctly compile on your system if you have a non-standard  
+% configuration.
+% Some rights reserved: http://creativecommons.org/licenses/by-sa/3.0/
+%------------------------------------
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt]{article}
+\usepackage{fontspec} 
+
+% DOCUMENT LAYOUT
+\usepackage{geometry} 
+\geometry{letterpaper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+\setlength\parindent{0in}
+
+% FONTS
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+\setmonofont[Scale=0.8]{Monaco}
+
+% ---- CUSTOM COMMANDS
+\chardef\&="E050
+\newcommand{\html}[1]{\href{#1}{\scriptsize\textsc{[html]}}}
+\newcommand{\github}[1]{\href{#1}{\scriptsize\textsc{[github]}}}
+\newcommand{\CRAN}[1]{\href{#1}{\scriptsize\textsc{[CRAN]}}}
+\newcommand{\pdf}[1]{\href{#1}{\scriptsize\textsc{[pdf]}}}
+\newcommand{\doi}[1]{\href{http://dx.doi.org/#1}{\scriptsize\textsc{[doi]}}}
+\providecommand*\email[1]{\href{mailto:#1}{#1}}
+% ---- MARGIN YEARS
+\usepackage{marginnote}
+\newcommand{\amper{}}{\chardef\amper="E0BD }
+\newcommand{\years}[1]{\marginnote{\raggedleft\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\mdseries\upshape\Large}
+\subsectionfont{\mdseries\scshape\normalsize} 
+\subsubsectionfont{\mdseries\upshape\large} 
+
+%TABLE WIDTH PACKAGE
+\usepackage{tabularx}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+
+
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+\usepackage[ bookmarks, colorlinks, breaklinks, 
+% ---- FILL IN HERE THE TITLE AND AUTHOR
+	pdftitle={Rafael Maia - CV},
+	pdfauthor={Rafael Maia},
+	pdfproducer={http://www.rafaelmaia.net}
+]{hyperref}  
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue} 
+
+% DOCUMENT
+\begin{document}
+{\LARGE Rafael Maia}\\[0.3cm]
+
+%\hspace{-6pt}
+
+\begin{tabularx}{\textwidth}{ @{}p{0.58\textwidth}  p{0.05\textwidth} @{} R @{}}
+%PhD Candidate  \\
+Department of Ecology, Evolution \& &  phone: & \texttt{+1-330-687-5079} \\
+Environmental Biology & email: & \email{rm3368@columbia.edu}\\
+Columbia University & \textsc{url}:  & \href{http://www.rafaelmaia.net}{http://www.rafaelmaia.net}\\
+New York, NY \texttt{10027} U.S.A. & & \\
+  \end{tabularx} \\ %[.2cm]
+
+Born:  July 13, 1982 - Brasília, DF\\
+Nationality:  Brazilian\\%[0.8cm]
+
+
+%\hrule
+
+
+\section*{Education}
+\years{2015-present} 	\textsc{Simons Foundation Junior Fellow}, Department of Ecology, Evolution \& Environmental Biology\\
+					Columbia University, New York NY\\
+					\emph{Supervisor}: Dr. Dustin Rubenstein\\
+
+\years{2014-2015} 	\textsc{Postdoctoral Fellow}, Department of Biological Sciences\\
+					The University of Idaho, Moscow ID\\
+					\emph{Supervisor}: Dr. Luke Harmon\\
+
+\years{2009-2014} 	\textsc{PhD}, Integrated Bioscience PhD program\\
+					The University of Akron, Akron OH\\
+					“Development and evolution of iridescent colors in feathers"\\
+					\emph{Advisor}: Dr. Matthew D. Shawkey\\
+
+\years{2006-2008} 		\textsc{MSc}, Ecology\\
+					Universidade de Brasília, Brasília DF - Brazil\\
+					“Iridescent structural coloration of the Blue-black grassquit (\emph{Volatinia jacarina}, Aves:Emberizidae): mechanisms of production, variation and function" [thesis written in Portuguese]\\
+					\emph{Advisor}: Dr. Regina H. Macedo\\
+
+\years{2001-2007} 		\textsc{BSc}, Biological Sciences, 2004\\
+					\textsc{BSc}, in Science Teaching in Biological Sciences, 2007\\
+					Universidade de Brasília, Brasília DF - Brazil
+
+%\section*{Languages}
+%Fluency in Portuguese and English, some Spanish \\
+%\textsc{TOEFL IBT} score 115/120 (Reading 30, Listening 30, Speaking 27, Writing 28)
+
+
+%\section*{Research interests}
+%Evolution • sexual selection • animal communication • structural colors • color-producing mechanisms • biophotonics • phylogenetic comparative methods • evo-devo • applied statistics and programming in R • philosophy of biology (conceptual issues in evolution).
+
+%\hrule
+\section*{Grants \& awards}
+
+\subsection*{Research Grants}
+\years{2014}     \textsc{Simons Foundation Society of Fellows} • Junior Fellow Award\\
+\years{2012} 	\textsc{NSF} • Doctoral Dissertation Improvement Grant (\textsc{DDIG})\\
+			\textsc{American Museum of Natural History} • Frank M. Chapman Research Grant\\
+\years{2011}	\textsc{The University of Akron / Choose Ohio First} • Tiered Mentoring Research Program\\
+\years{2010}	\textsc{Sigma XI} • Grant-in-Aid of Research\\
+\years{2006}	\textsc{Animal Behavior Society} • Developing Nations Research Grant
+
+\vspace{5 mm}
+
+\subsection*{Conference \& Workshop Travel Awards}
+\years{2012}	International Society for Behavioral Ecology (\textsc{ISBE}) • Lund, Sweden\\
+\years{2011}	Phylogenetic Comparative Methods and Macroevolution in R Workshop • Santa Barbara CA\\
+\years{2011}	Evolutionary Quantitative Genetics Workshop • \textsc{NESCent}, Durham NC\\
+\years{2010}	25\textsuperscript{th} International Ornithological Congress (\textsc{IOC}) • São José dos Campos, Brazil\\
+\years{2008} 	Iridescence: More Than Meets The Eye • \textsc{ASU} Frontiers in Life Science, Tempe AZ\\
+\years{2007}	Tópicos Avanzados en Ecología del Comportamiento (\emph{Advanced topics in behavioral ecology}) Workshop • \textsc{IEB-Chile}, Santiago, Chile\\
+\years{2006} 	IV North American Ornithological Conference (\textsc{NAOC}) • Veracruz, Mexico\\
+\years{2005} 	42\textsuperscript{nd} Annual Meeting of the Animal Behavior Society (\textsc{ABS}) • Salt Lake City UT\\
+
+
+\section*{Publications}
+
+\subsection*{Journal articles}
+
+\years{2016} \textbf{Maia R}, Rubenstein DR \& Shawkey MD. “Selection, constraint and the evolution of coloration in African starlings" \emph{Evolution} 70:1064-1079. \doi{10.1111/evo.12912} \\
+
+\years{} Rubalcaba JG, Polo V, \textbf{Maia R}, Rubenstein DR \& Veiga JP. "Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings" \emph{Journal of Evolutionary Biology}, In Press. \doi{10.1111/jeb.12893}\\
+
+
+\years{} Iskandar JP, Eliason CM, Astrop T, Igic B, \textbf{Maia R} \& Shawkey MD. "Morphological basis of glossy red colors" \emph{Biological Journal of the Linnean Society}, In Press. \doi{10.1111/bij.12810}\\
+
+\years{2015} Eliason CM, \textbf{Maia R} \& Shawkey MD. “Modular color evolution facilitated by a complex nanostructure in birds" \emph{Evolution} 69:357-367. \doi{10.1111/evo.12575} \\
+
+\years{2014} Simons MJP\dag, \textbf{Maia R\dag}, Leenknegt B \& Verhulst S. “Carotenoid-dependent signals and the evolution of plasma carotenoid levels in birds" \emph{American Naturalist} 184:741-751. (\dag equal contribution) \doi{10.1086/678402}\\
+
+\years{} Manica LT, \textbf{Maia R}, Dias A, Podos J \& Macedo RH. "Vocal output predicts territory quality in a Neotropical songbird" \emph{Behavioural Processes.} 109(A):21-26. \doi{10.1016/j.beproc.2014.07.004}\\
+
+\years{} Pessoa DMA, \textbf{Maia R}, Ajuz RCA, Moraes PZPMR, Spyrides MHC \& Pessoa VF. “The adaptive value of primate color vision for predator detection" \emph{American Journal of Primatology} 76:721-729. \doi{10.1002/ajp.22264}\\
+
+\years{2013} \textbf{Maia R}, Rubenstein DR \& Shawkey MD. “Key ornamental innovations facilitate diversification in an avian radiation" \emph{Proceedings of the National Academy of Sciences} 110:10687-10692 \doi{10.1073/pnas.1220784110}\\
+
+\years{}  \textbf{Maia R}, Eliason, CM, Bitton, P-P, Doucet, SM \& Shawkey MD. “\texttt{pavo}: an R package for the analysis, visualization and organization of spectral data" \emph{Methods in Ecology \& Evolution} 4:906-913 \doi{10.1111/2041-210X.12069} \href{http://www.methodsinecologyandevolution.org/view/0/covergallery.html#4-10}{\scriptsize{[cover image]}}\\
+
+\years{} Sics\'{u} P, Manica LT,  \textbf{Maia R} \& Macedo RH. “Here comes the sun: multimodal displays are associated with sunlight incidence" \emph{Behavioral Ecology \& Sociobiology} 67:1633-1642\doi{10.1007/s00265-013-1574-x}\\
+
+\years{2012}  \textbf{Maia R}, Brasileiro L, Lacava RV \& Macedo RH. “Social environment affects acquisition and color of structural nuptial plumage in a sexually dimorphic tropical passerine" \emph{PLOS ONE} 7:e47501 \doi{10.1371/journal.pone.0047501}\\
+
+\years{} Snyder HK,  \textbf{Maia R}, D\'{}Alba L, Shultz AJ, Rowe KMC, Rowe KC \& Shawkey MD. “Iridescent colour production in hairs of blind golden moles (Chrysochloridae)" \emph{Biology Letters} 8:393-396 \doi{10.1098/rsbl.2011.1168}\\
+
+\years{}  \textbf{Maia R}, Macedo RH \& Shawkey MD. “Nanostructural self-assembly of iridescent feather barbules through depletion attraction of melanosomes during keratinization" \emph{Journal of the Royal Society Interface} 9:734-743 \doi{10.1098/rsif.2011.0456}\\
+
+\years{2011} Shawkey MD,  \textbf{Maia R} \& D\'{}Alba L. “Proximate bases of silver color in Anhinga (\emph{Anhinga anhinga}) feathers" \emph{Journal of Morphology} 272:1399-1407 \doi{10.1002/jmor.10993}\\
+
+\years{}  \textbf{Maia R}, D\'{}Alba L \& Shawkey MD. “What makes a feather shine? A nanostructural basis for glossy black colors in feathers" \emph{Proceedings of the Royal Society of London B: Biological Sciences} 278:1973-1980 \doi{10.1098/rspb.2010.1637}\\
+
+\years{}  \textbf{Maia R} \& Macedo RH. “Achieving luster: prenuptial molt pattern predicts iridescent structural coloration in blue-black grassquits" \emph{Journal of Ornithology} 152:243-252 \doi{10.1007/s10336-010-0576-y}\\
+
+\years{2010} Lacava RV, Brasileiro L,  \textbf{Maia R}, Oliveira RF \& Macedo RH. “Social environment affects testosterone in captive male blue-black grassquits" \emph{Hormones \& Behavior} 59:51-55 \doi{10.1016/j.yhbeh.2010.10.003}\\
+
+\years{2009} Santos ESA,  \textbf{Maia R} \& Macedo RH. “Condition dependent resource-value affects male-male competition in the blue-black grassquit" \emph{Behavioral Ecology} 20:553-559 \doi{10.1093/beheco/arp031}\\
+
+\years{}  \textbf{Maia R}, Caetano JVO, B\'{a}o SN \& Macedo RH. “Iridescent structural colour production in male blue-black grassquit feather barbules: the role of keratin and melanin" \emph{Journal of the Royal Society Interface} 6:S203-S211 \doi{10.1098/rsif.2008.0460.focus}\\
+
+\years{2008} Aguilar TM,  \textbf{Maia R}, Santos ESA \& Macedo RH. “Parasite levels in blue-black grassquits correlate with male displays but not female mate preference" \emph{Behavioral Ecology} 19:292-301 \doi{10.1093/beheco/arm130}\\
+
+\years{2006} Dacier A,  \textbf{Maia R}, Agustinho DP \& Barros M. “Rapid habituation of scan behavior in captive marmosets following brief predator encounters" \emph{Behavioural Processes} 71:66-69 \doi{10.1016/j.beproc.2005.09.006}
+
+\subsection*{Invited chapters}
+\years{2008}  \textbf{Maia R} \& Santos ESA. “Tropical Bird Communities" in: \emph{Tropical Bird Communities} edited by RH Macedo \& M Morris, in: Encyclopedia of Life Support Systems (EOLSS), Developed under the Auspices of the UNESCO, Eolss Publishers, Oxford, UK \html{http://www.eolss.net/}\\
+
+\years{} Dias A,  \textbf{Maia R} \& Dias RI. “Breeding Strategies of Tropical Birds" in: \emph{Tropical Bird Communities} edited by RH Macedo \& M Morris, in: Encyclopedia of Life Support Systems (EOLSS), Developed under the Auspices of the UNESCO, Eolss Publishers, Oxford, UK \html{http://www.eolss.net/}\\
+
+%TEMPLATE BIBLIO
+%\years{} Authors “Title" \emph{journaltitle} pagenum \doi{doi}\\
+
+\section*{Software development}
+\texttt{pavo} • R package for the organization, analysis and visualization of color data. \github{https://github.com/rmaia/pavo}  \CRAN{http://cran.r-project.org/web/packages/pavo/index.html}\\
+\texttt{reBird} • R interface to the eBird API. \github{https://github.com/ropensci/rebird}  \CRAN{http://cran.r-project.org/web/packages/rebird/index.html}\\
+R scripts for thin-film optical modeling (Supplemental material for Maia \emph{et al.} 2009  \doi{10.1098/rsif.2008.0460.focus})\\
+
+%\vspace{5 mm}
+
+\section*{Talks \& presentations}
+
+\subsection*{Invited talks}
+
+\years{2015} December 16. "Integrating development, constraints and selection in the study of avian color diversification." \emph{New York University Evening Evolution Group}\\
+
+\years{} December 04. "Integrating development, constraints and selection in the study of avian color diversification." \emph{Stephen F. Austin State University Biology Department Seminar}\\
+
+\years{2014} October 10. "The development, mechanisms and diversification of iridescent feather colors." \emph{University of Idaho Biology Department Seminar Series}\\
+
+\years{2013} November 14. "The optics of diversity: using physics to illuminate the evolution of bird feather colors." \emph{Oberlin College Biology Department Seminar Series}\\
+
+\years{} August 15. “From nano(structure) to macro(evolution): what the development and mechanisms of
+iridescence can tell us about plumage color diversification." \emph{Physiological and functional advances in avian coloration symposium (American Ornithologists' Union Meeting)}\\
+
+\years{} March 25. “Development and evolution of iridescent plumage colors." \emph{Cornell Lab of Ornithology}\\
+
+\years{2012} August 18. “Key innovations and the evolution of iridescent ornamental colors." \emph{The Role of Behavior in Non-Ecological and Non-Adaptive Speciation (ISBE post-congress symposium)}\\
+
+\years{} April 21. “The evolution of iridescent colors in African starlings." \emph{The University of Akron Brown Bag Seminar Series}\\
+
+\years{2011} September 25. “Fragments of the rainbow: the development and evolution of iridescence in feathers." \emph{The University of Pittsburgh Ecology \& Evolution Seminar Series} 
+
+
+
+%\subsection*{Contributed presentations (5 most recent of 28 total shown)\\ (\dag oral presentation; *title originally in Portuguese)}
+\subsection*{Contributed presentations (5 most recent of 29 total shown; \dag oral presentation)}
+
+\years{2015} \dag Uyeda, JC, Pennell MW, Miller ET, \textbf{Maia R}, Harmon LJ, McClain CR. "The evolution of energetic scaling relationships across the vertebrate tree of life." Evolution Meeting, S\~ao Paulo, Brazil\\
+
+\years{2013} \textbf{Maia R}, Parra, JL \& Shawkey MD. “Form and function in the evolution of iridescent hummingbird colors." Evolution Meeting, UT\\
+
+\years{} \dag Eliason CM, \textbf{Maia R}, Bitton, P-P \& Shawkey MD. “Linking form and function to elucidate the evolution of iridescent colors in birds." American Ornithologists' Union Conference (\textsc{AOU}) meeting, IL\\
+
+\years{} \dag Eliason CM, \textbf{Maia R} \& Shawkey MD. “Optics and evolution of iridescence in the wings of ducks." Society for Integrative and Comparative Biology (\textsc{SICB}) meeting, CA\\
+
+\years{2012} \dag \textbf{Maia R}, Rubenstein DR \& Shawkey MD. “Key innovations and the evolution of iridescent ornamental colors." 1\textsuperscript{st} Joint Congress on Evolutionary Biology meeting, Ottawa \& 14\textsuperscript{th} International Behavioral Ecology Congress (\textsc{ISBE}), Sweden\\
+
+%\years{2011} \textbf{Maia R}, Parra JL \& Shawkey MD. “Evolution of iridescence in \emph{Coeligena} hummingbirds: new methods, new insights." Joint Meeting of the Animal Behavior Society \& International Ethological Conference (\textsc{Behavior}), IN\\
+
+%\years{} \textbf{Maia R}, Parra JL \& Shawkey MD. “Evolution of ornamental and non-ornamental iridescence in \emph{Coeligena} hummingbirds." Evolution meeting, OK \\
+
+%\years{} \textbf{Maia R}, D\'{}Alba L \& Shawkey MD. “What makes a feather shine? A nanostructural basis for glossy black colors in feathers." Society for Integrative and Comparative Biology (\textsc{SICB}) meeting, UT\\
+
+%\years{2010} \dag \textbf{Maia R}, Macedo RH \& Shawkey MD. “Developing dichromatism: the ontogeny of iridescent and non-iridescent feathers in blue-black grassquits (\emph{Volatinia jacarina})." 25\textsuperscript{th} International Ornithological Congress (\textsc{IOC}), Brazil\\
+
+%\years{} Macedo RH, Dias A, Manica L, \textbf{Maia R}\& Podos J. “When birds sing, what are they saying?" 13\textsuperscript{th} International Behavioral Ecology Congress (\textsc{ISBE}), Australia\\
+
+%\years{2009} \dag Ajuz RCA, \textbf{Maia R}, Pessoa VF \& Pessoa DMA. “Implications of predation pressure on marmoset color vision." 46\textsuperscript{th} Annual Meeting of the Animal Behavior Society  (\textsc{ABS}), Brazil\\
+
+%\years{} \dag Dias AFS, \textbf{Maia R}, Podos J \& Macedo RHF. “Do blue-black grassquits songs signal individual quality?" 46\textsuperscript{th} Annual Meeting of the Animal Behavior Society (\textsc{ABS}), Brazil\\
+
+%\years{} \dag *Aquino, PPU, Couto TBA \& \textbf{Maia R}.“Distribution of \emph{Simpsonichthys santanae} (Cyprinodontiformes: Rivulidae): evidence for the metapopulation model." XII Brazilian Limnology Meeting, Gramado, RS, Brazil\\
+
+%\years{} *Aquino PPU, Couto TBA \& \textbf{Maia R}. “Preliminary data on the ecology of \emph{Simpsonichthys santanae} (Cyprinodontiformes: Rivulidae)." III Latin American Ecology Meeting, Brazil\\
+
+%\years{2008} \dag \textbf{Maia R}, Caetano JVO, B\'{a}o SN \& Macedo RH. “Mechanisms of iridescent structural color production by Blue-black grassquit feather barbules." Iridescence: More Than Meets The Eye (\textsc{ASU Frontiers in Life Science}) Conference, AZ\\
+
+%\years{} \dag \textbf{Maia R}, Caetano JVO, B\'{a}o SN \& Macedo RH. “Structural coloration of male blue-black grassquits (\emph{Volatinia jacarina}): the role of keratin and melanin." XVI Brazilian Ornithology Meeting, Brazil\\
+
+%\years{} Macedo RH \& \textbf{Maia R}. “Achieving luster: alternative routes for the expression of plumage ornaments in the blue-black grassquit." 12\textsuperscript{th} International Behavioral Ecology Congress (\textsc{ISBE}), NY\\
+
+%\years{} \textbf{Maia R}, Dias A, \& Macedo RH. “Structural plumage reflects age, breeding season and survival in the blue-black grassquit." 12\textsuperscript{th} International Behavioral Ecology Congress (\textsc{ISBE}), NY\\
+
+%\years{} *\textbf{Maia R}, Alves, ES, Goedert D, \& Macedo RH. “Modulation of plumage coloration characteristics of \emph{Sicalis citrina} males." XVI Brazilian Ornithology Meeting, Brazil\\
+
+%\years{2007} \dag *Veloso H, \textbf{Maia R}, \& Macedo RH. “Influence of the social context on male blue-black grassquit (\emph{Volatinia jacarina}, Aves: Emberizidae) displays." XXV Brazilian Annual Ethology Meeting, Brazil\\
+
+%\years{} *Goedert D, Maia F, Aquino PPU \& \textbf{Maia R}. “Context-dependent female choice in \emph{Rivulus pictus} (Teleostei: Cyprinodontiformes: Rivulidae)." XXV Brazilian Annual Ethology Meeting, Brazil\\
+
+%\years{2006} \dag Macedo RH, \textbf{Maia R} \& Dias, RI. “Extra-pair mating systems in the tropics: What is the evidence?" Ecological and Evolutionary Perspectives of Sexual Selection symposium, IV North American Ornithological Conference (\textsc{NAOC}), Mexico\\
+
+%\years{} \textbf{Maia R}, Dias, RISC, Andreozzi MM \& Macedo RH. “Breeding synchrony of the Neotropical blue-black grassquit: Implications for sexual selection." IV North American Ornithological Conference (\textsc{NAOC}), Mexico\\
+
+%\years{} \textbf{Maia R}, Goedert D \& Macedo RH. “Male phenotype does not relate to territorial characteristics in the blue-black grassquit." I Latin American Animal Behavior Society Meeting, Mexico\\
+
+%\years{} Moraes MR, Andreozzi MM, \textbf{Maia R} \& Macedo RH. “The role of male blue-black grassquits (\emph{Volatinia jacarina}, Aves:Emberizidae) on parental care." XXIV Brazilian Annual Ethology Meeting, Brazil\\
+
+%\years{} Veloso H, Maia R, Alves ES \& Macedo RH. “Influence of resource distribution on blue-black grassquit (\emph{Volatinia jacarina}, Aves:Eberizidae) territorial aggregation." XXIV Brazilian Annual Ethology Meeting, Bras\'{i}lia\\
+
+%\years{2005} \dag \textbf{Maia R}, Aguilar TM, Dias RI, Faria M \& Macedo RHF. “Habitat selection and reproductive success of the blue-black grassquit (\emph{Volatinia jacarina})." 42\textsuperscript{nd} Annual Meeting of the Animal Behavior Society, UT\\
+
+%\years{} Dacier A, \textbf{Maia R}, Agustinho DP \& Barros M. “Rapid habituation of scan behavior in captive black tufted-ear marmosets (\emph{Callithrix penicillata}) following brief predator encounters." III Brazilian Mastozoology Meeting\\
+
+%\years{2003} *Decanini DP, \textbf{Maia R}. \& Boere, V. “Feeding behavior of the Cerrado marmoset (\emph{Callithrix penicillata}) in a \emph{Anadinathera macrocarpa} tree." XXI Brazilian Annual Ethology Meeting
+
+\section*{Teaching}
+\subsection*{Teaching Assistant}
+\emph{The University of Akron}\\
+\years{2013} Principles of Biology\\
+\years{2011} Ornithology\\
+\years{2009-2012} Natural Science: Biology (Fall 2009/2010, Spring 2010/2012)\\
+
+\emph{Universidade de Brasília}\\
+\years{2006} Applied Statistics for Ecology (graduate-level course)\\
+\years{2005-2006} Animal Behavior\\
+\years{2004-2005} Vertebrate Zoology
+
+\subsection*{Visiting lecturer}
+\emph{Universidade Católica de Brasília}\\
+\years{2008} Methods in Field Biology (two-week field course)
+
+\subsection*{Workshops}
+
+\years{2013} "Programming and applied statistics using R" • 12 hours\\ The University of Akron\\
+
+\years{2010} “Applied spectrophotometry for animal coloration studies" • 10 hours\\ Museu Nacional, Universidade Federal do Rio de Janeiro\\
+
+\years{2008} “Statistics for ecology: experimental design and data analysis" • 10 hours\\ Universidade Católica de Brasília\\
+
+\years{2006} “Behavioral ecology and sociobiology" • 10 hours\\ Annual biology student meeting, Universidade de Brasília
+
+%INCLUDE MENTORING (JP, Holly, João, Henrique, Sarah)
+%Prêmios do JP
+% mentoring - JP, Holly, Chance, JV, HV, high school (sara)
+%Honors College interviewer
+%EBJClub, Breaking Bio
+
+%\hrule
+
+\section*{Reviewer}
+The Auk • American Naturalist (3) • Behavioral Ecology (4) • Behavioral Ecology and Sociobiology (4) • Biological Journal of the Linnean Society • Biota Neotropica • \textsc{BMC} Evolutionary Biology (2) • Current Opinion in Behavioral Sciences • Evolution (2) • Evolutionary Biology • Integrative Zoology (2) • Journal of Animal Ecology • Journal of Avian Biology • Journal of Ornithology (2) • Methods in Ecology and Evolution (2) • \textsc{PLOS ONE} • Ornitolog\'{i}a Colombiana • Proceedings of the Royal Society of London B: Biological Sciences (4) • Scientific Reports • Systematic Biology\\
+
+\textit{ad hoc} reviewer for the book \textit{"Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice"} (L. Z. Garamszegi, ed.)\\
+
+\textit{Associate Faculty Member} for \href{http://f1000.com/prime/thefaculty/member/499999771097524591}{F1000Prime}\\
+
+\textit{Peer member} for \href{http://www.peerageofscience.org/}{Peerage of Science}
+
+\section*{Service to the discipline}
+\years{2012-2014} \emph{Member (chair 2013-2014)} of the Graduate Council to the Executive Committee, American Society of Naturalists\\
+
+\years{2012-2013} \emph{Creator and organizer} of the Evolutionary Biology Online Journal Club \html{http://evobiojournalclub.wordpress.com}\\
+
+\years{2012} \emph{Interviewer} for the University of Akron Honors College scholarship selection process\\
+
+\years{2011-2012} \emph{Judge and peer reviewer} for The University of Akron Biology Undergraduate Research Symposium (\textsc{BURS}) undergraduate authored publication award (2011) and best poster presentation award (2012)\\
+
+\years{2008} \emph{Supervisor of educational activities} for the \textsc{Darwin} itinerant exhibit in Brasília, DF, Brazil (\textsc{Instituto Sangari/American Museum of Natural History}, 2008). Activities included: preparation, monitoring and execution of guided tours; tour guide training; elaboration and presentation of “\emph{Meeting with Educators}” talks, focusing on Darwin’s life as a tool in teaching evolution, and the major misconceptions of evolutionary theory (audience: middle and high school teachers)\\
+
+\emph{Volunteer organizer and support team member} for the 46\textsuperscript{th} Animal Behavior Society Annual Meeting (Pirenópolis, Brazil, 2009), XIX Annual Meeting of the Society for Conservation Biology (Brasília, Brazil, 2005) and 25\textsuperscript{th} Brazilian Zoology Conference (Brasília, Brazil, 2004)
+
+%\clearpage
+%\pagenumbering{gobble}
+
+%\section*{References}
+%\textbf{\href{http://gozips.uakron.edu/~shawkey/Shawkeys_Lab/Home.html}{Matthew D. Shawkey}}\\
+%Department of Biology\\
+%The University of Akron\\
+%Akron, OH, USA 44325-3908\\
+%phone: (+1) 330-972-8192\\
+%\href{mailto:shawkey@uakron.edu}{shawkey@uakron.edu}\\
+
+%\textbf{\href{http://www.columbia.edu/~dr2497/HOME.html}{Dustin R. Rubenstein}}\\
+%Columbia University\\
+%Ecology, Evolution \& Environmental Biology\\
+%10th floor Schermerhorn Extension, MC5557\\
+%1200 Amsterdam Avenue\\
+%New York, NY, USA 10027\\
+%phone: (+1) 212-854-4881\\
+%\href{mailto:dr2497@columbia.edu}{dr2497@columbia.edu}\\
+
+%\textbf{\href{http://comportamento-animal.weebly.com/}{Regina H. F. Macedo}}\\
+%Departamento de Zoologia\\
+%Instituto de Biologia\\
+%Campus Universitario Darcy Ribeiro\\
+%Universidade de Brasilia\\
+%Brasilia, DF, Brazil 70910-900\\
+%phone: (+55)  61-3107-2915\\
+%\href{mailto:rhfmacedo@unb.br}{rhfmacedo@unb.br}\\
+
+%\textbf{\href{http://www.uakron.edu/biology/faculty-staff/detail.dot?identity=1201495}{Francisco B.-G. Moore}}\\
+%Department of Biology\\
+%The University of Akron\\
+%Akron, OH, USA 44325-3908\\
+%phone: (+1) 330-972-2572\\
+%\href{mailto:moore@uakron.edu}{moore@uakron.edu}\\
+
+
+
+
+
+%\vspace{1cm}
+%\vfill{}
+%\hrulefill
+
+%\begin{center}
+%{\scriptsize  Last updated: \today\- •\- 
+% ---- PLEASE LEAVE THIS BACKLINK FOR ATTRIBUTION AS PER CC-LICENSE
+%Typeset in \href{http://nitens.org/taraborelli/cvtex}{
+%\fontspec{Times New Roman}\XeTeX }\\
+% ---- FILL IN THE FULL URL TO YOUR CV HERE
+%\href{http://gozips.uakron.edu/~rm72}{http://gozips.uakron.edu/~rm72}}
+%\end{center}
+
+
+\end{document}
