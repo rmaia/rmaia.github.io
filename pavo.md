@@ -8,6 +8,8 @@ author_profile: true
 
 ## Updates (current version: 0.5-5, 09/03/2016)
 
+We're very pleased to welcome [Thomas White](http://tomwhite.io/) to our development team! Tom is helping us make some changes for the big update coming soon, as well as [incorporating additional visual models](https://github.com/thomased/colsci) to the package.
+
 _IMPORTANT: Please update to the latest version. Note that a bug has been detected in previous versions when using the “vissyst()” function (and anything downstream) and the blue tit visual system. This bug has been fixed, but please make sure to always check the output of your results. All other input options, including other visual systems, should be working as expected. If you have any questions, please e-mail me._
 
 **citing pavo.** the manuscript describing the package is:
