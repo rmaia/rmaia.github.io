@@ -1,4 +1,12 @@
-<!DOCTYPE HTML>
+---
+title: "Redirecting"
+layout: single
+excerpt: "Redirecting to the pavo webpage..."
+sitemap: false
+permalink: /r-packages/pavo/
+--- 
+
+
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
