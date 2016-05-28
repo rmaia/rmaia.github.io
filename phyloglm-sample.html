@@ -207,8 +207,8 @@ ggplot(data=plotdat, aes(x=value, fill=model)) +
 #source('/R/modelaveraging.onetree.R')
 
 allestimates &lt;- lapply(allresults, modaveraging)</code></pre>
-<div id="example-estimates-from-one-tree" class="section level4">
-<h4>example model-averaged estimates from one tree:</h4>
+<div id="example-model-averaged-estimates-from-one-tree" class="section level4">
+<h4>example model averaged estimates from one tree:</h4>
 <pre class="r"><code>allestimates[[1]]</code></pre>
 <pre><code>##                    coef       StErr       CIlwr      CIupr
 ## (Intercept) -1.27932209 1.222493560 -3.67540947 1.11676529
@@ -222,8 +222,8 @@ allestimates &lt;- lapply(allresults, modaveraging)</code></pre>
 ## nest5        0.21398410 0.218136316 -0.21356308 0.64153127
 ## T            0.00000000 0.000000000  0.00000000 0.00000000</code></pre>
 </div>
-<div id="model-averaged-estimates" class="section level4">
-<h4>Model averaged estimates accross trees</h4>
+<div id="model-averaged-estimates-across-trees" class="section level4">
+<h4>Model averaged estimates across trees</h4>
 <pre class="r"><code># put all coefficients and all standard errors in separate data frames
 allcoef &lt;- do.call(cbind, lapply(allestimates, &quot;[&quot;, &quot;coef&quot;))
 allster &lt;- do.call(cbind, lapply(allestimates, &quot;[&quot;, &quot;StErr&quot;))^2
@@ -236,25 +236,25 @@ modavgres$se.btw.trees &lt;- sqrt(apply(allcoef, 1, var, na.rm=TRUE))
 modavgres$se.win.trees &lt;- sqrt(apply(allster, 1, mean, na.rm=TRUE))
 
 modavgres$pooled.ster &lt;- sqrt(
-  apply(allcoef, 1, var, na.rm=TRUE)^2 + # variance of the estimates across trees
-  apply(allster, 1, mean, na.rm=TRUE)^2 # mean variance of the estimates within trees
+  apply(allcoef, 1, var, na.rm=TRUE) + # variance of the estimates across trees
+  apply(allster, 1, mean, na.rm=TRUE) # mean variance of the estimates within trees
   )
 
 modavgres$CIlwr &lt;- modavgres$mean.coef - 1.96* modavgres$pooled.ster
 modavgres$CIupr &lt;- modavgres$mean.coef + 1.96* modavgres$pooled.ster
 
 round(modavgres,3)</code></pre>
-<pre><code>##             mean.coef se.btw.trees se.win.trees pooled.ster  CIlwr  CIupr
-## (Intercept)    -1.669        0.542        1.092       1.229 -4.077  0.740
-## lining1        -0.839        0.251        0.425       0.192 -1.215 -0.463
-## aquatic1        0.432        0.297        0.308       0.129  0.178  0.685
-## greens1        -0.194        0.142        0.271       0.076 -0.343 -0.045
-## RH              0.010        0.003        0.005       0.000  0.010  0.010
-## nest2          -0.168        0.099        0.211       0.046 -0.258 -0.079
-## nest3           0.041        0.036        0.096       0.009  0.022  0.059
-## nest4          -0.231        0.137        0.236       0.059 -0.346 -0.115
-## nest5           0.272        0.166        0.286       0.087  0.103  0.442
-## T               0.000        0.000        0.000       0.000  0.000  0.000</code></pre>
+<pre><code>##             mean.coef se.btw.trees se.win.trees pooled.ster  CIlwr CIupr
+## (Intercept)    -1.669        0.542        1.092       1.219 -4.059 0.722
+## lining1        -0.839        0.251        0.425       0.494 -1.807 0.129
+## aquatic1        0.432        0.297        0.308       0.428 -0.407 1.270
+## greens1        -0.194        0.142        0.271       0.306 -0.794 0.405
+## RH              0.010        0.003        0.005       0.006 -0.001 0.021
+## nest2          -0.168        0.099        0.211       0.233 -0.626 0.289
+## nest3           0.041        0.036        0.096       0.103 -0.161 0.243
+## nest4          -0.231        0.137        0.236       0.273 -0.765 0.304
+## nest5           0.272        0.166        0.286       0.331 -0.377 0.921
+## T               0.000        0.000        0.000       0.000 -0.001 0.001</code></pre>
 </div>
 </div>
 </div>
