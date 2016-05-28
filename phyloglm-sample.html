@@ -208,7 +208,7 @@ ggplot(data=plotdat, aes(x=value, fill=model)) +
 
 allestimates &lt;- lapply(allresults, modaveraging)</code></pre>
 <div id="example-estimates-from-one-tree" class="section level4">
-<h4>example estimates from one tree:</h4>
+<h4>example model-averaged estimates from one tree:</h4>
 <pre class="r"><code>allestimates[[1]]</code></pre>
 <pre><code>##                    coef       StErr       CIlwr      CIupr
 ## (Intercept) -1.27932209 1.222493560 -3.67540947 1.11676529
@@ -223,7 +223,7 @@ allestimates &lt;- lapply(allresults, modaveraging)</code></pre>
 ## T            0.00000000 0.000000000  0.00000000 0.00000000</code></pre>
 </div>
 <div id="model-averaged-estimates" class="section level4">
-<h4>Model averaged estimates</h4>
+<h4>Model averaged estimates accross trees</h4>
 <pre class="r"><code># put all coefficients and all standard errors in separate data frames
 allcoef &lt;- do.call(cbind, lapply(allestimates, &quot;[&quot;, &quot;coef&quot;))
 allster &lt;- do.call(cbind, lapply(allestimates, &quot;[&quot;, &quot;StErr&quot;))^2
