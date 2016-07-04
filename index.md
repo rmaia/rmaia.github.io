@@ -10,10 +10,10 @@ Iridescent colors of bird feathers are among the brightest, most dazzling and di
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/hylopsar">@hylopsar</a>&#39;s talk on bird coloration evolution was so engaging that a tiny bird (left) came to listen! <a href="https://twitter.com/hashtag/evol2016?src=hash">#evol2016</a> <a href="https://t.co/hzqHDrDTMw">pic.twitter.com/hzqHDrDTMw</a></p>&mdash; Shana Caro (@ShanaCaro) <a href="https://twitter.com/ShanaCaro/status/744233162474037248">June 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-###### __carreer highlight!__
+<p style="font-size:20px">_carreer highlight!_</p>
 
 
-CV and info: <br>
+##### CV and info: <br>
 <a href="/pdf/RMaia-CV.pdf"><img src="/images/pdf-file-logo-icon.jpg" style="padding:5px; height:50px"></a>
 <a href="https://scholar.google.com/citations?user=9WJAHYQAAAAJ"><img src="/images/GoogleScholar1.jpg" style="padding:5px; height:50px"></a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734001E1"><img src="/images/lattes11.png" style="padding:5px; height:50px"></a> 
