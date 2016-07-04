@@ -13,7 +13,7 @@ Iridescent colors of bird feathers are among the brightest, most dazzling and di
 <p style="font-size:12px"><i>carreer highlight!</i></p>
 
 
-### CV and info: <br>
+### CV and info <br>
 <a href="/pdf/RMaia-CV.pdf"><img src="/images/pdf-file-logo-icon.jpg" style="padding:5px; height:50px"></a>
 <a href="https://scholar.google.com/citations?user=9WJAHYQAAAAJ"><img src="/images/GoogleScholar1.jpg" style="padding:5px; height:50px"></a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734001E1"><img src="/images/lattes11.png" style="padding:5px; height:50px"></a> 
