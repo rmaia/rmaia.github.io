@@ -3,6 +3,8 @@ layout: singlenohead
 title: publications
 author_profile: true
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <img align="right" style="padding-left:25px" src="/images/drawer.jpg">
 **Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ 70:1064-1079.](http://dx.doi.org/10.1111/evo.12912) [[pdf]](/pdf/2016-Maiaetal-Evo.pdf) <div data-badge-type="4" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
