@@ -1,15 +1,31 @@
 ---
 layout: singlenohead
 title: publications
-author_profile: true
+# author_profile: true
 permalink: /publications/
+sidebar:
+ - image: 3-1Starling CompositePPT.jpg
+   text: "---"
+ - image: pubfigs/colspace.png
+   text: "---"
+ - image: drawer.jpg
+   text: "---"
+ - image: shapeimage_2.png
+   text: "---"
+ - image: http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg
+   text: "---"
+
+
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+[Google Scholar Citations](https://scholar.google.com/citations?user=9WJAHYQAAAAJ){: .btn .btn--info .btn--small}
+<!-- <img align="right" style="padding-left:25px" src="/images/drawer.jpg">-->
+<!-- <img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg"> -->
 
 <div data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
 D'Alba, L.\*, **Maia, R.**\*, Hauber, M.E. and Shawkey, M.D. 2016. Evolution of eggshell cuticle in relation to nesting ecology. _Proceedings of the Royal Society of London B: Biological Sciences_, In Press. (\*equal contribution)
 
-<img align="right" style="padding-left:25px" src="/images/drawer.jpg">
 <div data-badge-type="4" data-doi="10.1111/evo.12912" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ 70:1064-1079.](http://dx.doi.org/10.1111/evo.12912) [[pdf]](/pdf/2016-Maiaetal-Evo.pdf)  
 
@@ -38,9 +54,6 @@ _featured: [Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/
 
 <div data-badge-type="4" data-doi="10.1007/s00265-013-1574-x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Sicsú, P., Manica, L.T., **Maia R.** and Macedo, R.H. 2013. Here comes the sun: multimodal displays are associated with sunlight incidence. [_Behavioral Ecology and Sociobiology_ 67:1633-1642.](http://dx.doi.org/10.1007/s00265-013-1574-x) [[pdf]](/pdf/2013Sicsuetal-BEAS.pdf) 
-
-<img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg">
-
 
 <div data-badge-type="4" data-doi="10.1111/2041-210X.12069" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia, R.**, Eliason, C.M., Bitton, P.-P., Doucet, S.M., Shawkey, M.D. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. [_Methods in Ecology and Evolution_ 4:906-913.](http://dx.doi.org/10.1111/2041-210X.12069) [[pdf]](/pdf/2013-Maiaetal-MEE.pdf) 
