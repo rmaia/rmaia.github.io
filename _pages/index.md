@@ -2,6 +2,7 @@
 layout: singlenohead
 title: Rafael Maia
 author_profile: true
+permalink: /
 ---
 <img align="left" style="padding-right:20px; width:310px" src="/images/logo.png"> 
 I am a [Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/junior-fellows/) in the [Department of Ecology, Evolution and Environmental Biology at Columbia University](http://www.columbia.edu/cu/e3b/), working in the [Rubenstein Lab](http://www.columbia.edu/~dr2497/HOME.html). Before that I was a Postdoctoral Fellow in [Luke Harmon's lab at the University of Idaho](http://www.webpages.uidaho.edu/~lukeh/), after finishing my PhD in [Integrated Bioscience at the University of Akron](http://www.uakron.edu/id/ib/), under the supervision of [dr. Matthew Shawkey](http://gozips.uakron.edu/~shawkey/), studying how structural colors are produced in the animal integument, with a focus on bird feathers.
