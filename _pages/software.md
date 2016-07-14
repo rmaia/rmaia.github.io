@@ -2,6 +2,7 @@
 title: Software
 layout: singlenohead
 author_profile: true
+permalink: /software/
 ---
 
 [**pavo**](/pavo/): an R package for the organization, visualization and analysis of spectral color data
