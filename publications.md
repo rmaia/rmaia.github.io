@@ -5,12 +5,15 @@ author_profile: true
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div data-badge-type="4" data-doi="10.1111/evo.12912" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+D'Alba, L.\*, **Maia, R.**\*, Hauber, M.E. and Shawkey, M.D. 2016. Evolution of eggshell cuticle in relation to nesting ecology. _Proceedings of the Royal Society of London B: Biological Sciences_, In Press. (\*equal contribution)
+
 <img align="right" style="padding-left:25px" src="/images/drawer.jpg">
+<div data-badge-type="4" data-doi="10.1111/evo.12912" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia, R.**, Rubenstein, D.R. and Shawkey, M.D. 2016. Selection, constraint, and the evolution of coloration in African Starlings. [_Evolution_ 70:1064-1079.](http://dx.doi.org/10.1111/evo.12912) [[pdf]](/pdf/2016-Maiaetal-Evo.pdf)  
 
 <div data-badge-type="4" data-doi="10.1111/jeb.12893" data-hide-no-mentions="true" class="altmetric-embed"></div>
-Rubalcaba, J.G., Polo, V., **Maia, R.**, Rubenstein, D.R., Veiga, J.P. 2016. Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. [_Journal of Evolutionary Biology_ In Press.](http://dx.doi.org/10.1111/jeb.12893) [[pdf]](/pdf/2016-Rubalcabaetal-JEB.pdf) 
+Rubalcaba, J.G., Polo, V., **Maia, R.**, Rubenstein, D.R. and Veiga, J.P. 2016. Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. [_Journal of Evolutionary Biology_ In Press.](http://dx.doi.org/10.1111/jeb.12893) [[pdf]](/pdf/2016-Rubalcabaetal-JEB.pdf) 
 
 <div data-badge-type="4" data-doi="10.1111/bij.12810" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M.D. 2016. Morphological basis of glossy red colors. [_Biological Journal of the Linnean Society_ In Press.](http://dx.doi.org/10.1111/bij.12810) [[pdf]](/pdf/2016-Iskandaretal-BJLS.pdf) 
@@ -19,7 +22,7 @@ Iskandar, J.P., Eliason, C.M., Astrop, T., Igic, B., **Maia, R**. and Shawkey, M
 Eliason, C.M., **Maia, R.** and Shawkey, M.D. 2015. Modular color evolution facilitated by a complex nanostructure in birds. [_Evolution_ 69:357-367.](http://dx.doi.org/10.1111/evo.12575) [[pdf]](/pdf/2015-Eliasonetal-Evo.pdf) 
  
 <div data-badge-type="4" data-doi="10.1086/678402" data-hide-no-mentions="true" class="altmetric-embed"></div>
-Simons, M.\*, **Maia, R.**\*, Leenknegt, B. and Verhulst, S. 2014. Carotenoid-dependent signals and the evolution of plasma carotenoid levels in birds. [_American Naturalist_ 184:741-751.](http://dx.doi.org/10.1086/678402) [[pdf]](/pdf/2014-Simonsetal-AmNat.pdf) 
+Simons, M.\*, **Maia, R.**\*, Leenknegt, B. and Verhulst, S. 2014. Carotenoid-dependent signals and the evolution of plasma carotenoid levels in birds. [_American Naturalist_ 184:741-751.](http://dx.doi.org/10.1086/678402) [[pdf]](/pdf/2014-Simonsetal-AmNat.pdf) (\*equal contribution)
 
 <div data-badge-type="4" data-doi="10.1016/j.beproc.2014.07.004" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Manica, L.T., **Maia, R.**, Dias, A., Podos, J. and Macedo, R.H. 2014. Vocal output predicts territory quality in a Neotropical songbird. [_Behavioral Processes_ 109(A):21-26.](http://dx.doi.org/10.1016/j.beproc.2014.07.004) [[pdf]](/pdf/2014-Manicaetal-BehProc.pdf) 

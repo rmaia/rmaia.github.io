@@ -3,9 +3,8 @@ title: Research
 layout: singlenohead
 author_profile: true
 ---
-
-### "Evolution is the control of development by ecology." - Leigh Van Valen, 1973  
-
+**"Evolution is the control of development by ecology."**  (Van Valen, 1973)  
+<br>
 <img align="left" style="padding-right:25px" src="/images/specs.jpg">
 Understanding life's exuberant diversity, and how it has come to be and changed over time, is one of the key questions in evolutionary biology. **My current research interests focus on how sexual selection has driven the evolution of ornaments, and ultimately the diversification of lineages.** In order to answer these questions, I believe that understanding the development of such traits is crucial, since it determines how they can be modified and the physiological implications of doing so. 
 
