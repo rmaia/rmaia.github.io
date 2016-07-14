@@ -2,6 +2,7 @@
 title: rebird
 layout: singlenohead
 author_profile: true
+permalink: /rebird/
 ---
 
 # reBird: a programmatic interface to the eBird API

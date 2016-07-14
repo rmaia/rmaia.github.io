@@ -2,6 +2,7 @@
 title: Research
 layout: singlenohead
 author_profile: true
+permalink: /research/
 ---
 **"Evolution is the control of development by ecology."**  (Van Valen, 1973)  
 <br>
