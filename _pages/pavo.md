@@ -2,6 +2,7 @@
 title: pavo
 layout: singlenohead
 author_profile: true
+permalink: /pavo/
 ---
 
 # pavo: Perceptual Analysis, Visualization and Organization of Spectral Color Data in R
