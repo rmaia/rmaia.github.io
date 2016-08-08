@@ -69,7 +69,7 @@ _featured: [uakron](http://www.uakron.edu/im/online-newsroom/news_details.dot?ne
 **Maia, R.**, Macedo, R.H. and Shawkey, M.D. 2012. Nanostructural self-assembly of iridescent feather barbules through depletion attraction of melanosomes during keratinization. [_Journal of the Royal Society Interface_ 9:734-743.](http://dx.doi.org/10.1098/rsif.2011.0456) [[pdf]](/pdf/2011-Maiaetal-Interface.pdf) 
 
 <div data-badge-type="4" data-doi="10.1002/jmor.10993" data-hide-no-mentions="true" class="altmetric-embed"></div>
-Shawkey, M.D, **Maia, R.** and D’Alba, L. 2011. Proximate bases of silver color in Anhinga (__Anhinga anhinga__) feathers. [_Journal of Morphology_ 272:1399-1407.](http://dx.doi.org/10.1002/jmor.10993) [[pdf]](/pdf/2011-Shawkeyetal-JMorph.pdf) 
+Shawkey, M.D, **Maia, R.** and D’Alba, L. 2011. Proximate bases of silver color in Anhinga (_Anhinga anhinga_) feathers. [_Journal of Morphology_ 272:1399-1407.](http://dx.doi.org/10.1002/jmor.10993) [[pdf]](/pdf/2011-Shawkeyetal-JMorph.pdf) 
 
 <div data-badge-type="4" data-doi="10.1098/rspb.2010.1637" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia, R.**, D’Alba, L. and Shawkey, M.D. 2011. What makes a feather shine? A nanostructural basis for glossy black colours in feathers. [_Proceedings of the Royal Society of London B: Biological Sciences_ 278:1973-1980.](http://dx.doi.org/10.1098/rspb.2010.1637)  [[pdf]](/pdf/2010-Maiaetal-PRSB.pdf)   
