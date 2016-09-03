@@ -9,7 +9,15 @@ permalink: /links/
 
 here is a compilation of useful resources I often refer to, and decided to post here in case you find it useful too.
 
-## Visualization
+## Mentoring  
+[STEM Women: how men can help](http://www.stemwomen.net/category/how-men-can-help/)
+[Don't be that dude: Handy tips for the male academic](https://tenureshewrote.wordpress.com/2013/09/26/dont-be-that-dude-handy-tips-for-the-male-academic/)
+[Phelps Lab: A template for (nearly) painless writing in 10 steps](http://www.phelpslab.net/writing/)  
+[Hall Lab student resources](http://www.indiana.edu/~halllab/grad-student-resources.html)  
+[Colin Purrington's notes on poster design](http://colinpurrington.com/tips/academic/posterdesign)  
+[How to become good at peer review: A guide for young scientists](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)  
+
+## Presentations and Data Visualization
 [Paul Tol's notes on colour schemes](https://personal.sron.nl/~pault/colourschemes.pdf)  
 [ggplot2 extensions](http://www.ggplot2-exts.org/)  
 [Butterick’s Practical Typography](http://practicaltypography.com/index.html)  
@@ -26,8 +34,4 @@ here is a compilation of useful resources I often refer to, and decided to post 
 [An Animation of the Construction of a Confidence Interval](http://www.sumsar.net/blog/2013/12/an-animation-of-the-construction-of-a-confidence-interval/)  
 [Animating MCMC](http://twiecki.github.io/blog/2014/01/02/visualizing-mcmc/)  
 
-## Other Resources  
-[Phelps Lab: A template for (nearly) painless writing in 10 steps](http://www.phelpslab.net/writing/)  
-[Hall Lab student resources](http://www.indiana.edu/~halllab/grad-student-resources.html)  
-[Colin Purrington's notes on poster design](http://colinpurrington.com/tips/academic/posterdesign)  
-[How to become good at peer review: A guide for young scientists](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)  
+
