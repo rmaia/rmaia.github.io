@@ -12,7 +12,7 @@ I am a [Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons
 <br>
 <br>
 
-###CV and info  
+##CV and info:  
 
 <a href="/pdf/RMaia-CV.pdf"><img src="/images/pdf-file-logo-icon.jpg" style="padding:5px; height:50px"></a>
 <a href="https://scholar.google.com/citations?user=9WJAHYQAAAAJ"><img src="/images/GoogleScholar1.jpg" style="padding:5px; height:50px"></a>
