@@ -12,7 +12,7 @@ here is a compilation of useful resources I often refer to, and decided to post 
 ## Mentoring  
 [STEM Women: how men can help](http://www.stemwomen.net/category/how-men-can-help/)
 [Don't be that dude: Handy tips for the male academic](https://tenureshewrote.wordpress.com/2013/09/26/dont-be-that-dude-handy-tips-for-the-male-academic/)
-[Small Pond Science: Recruiting underrepresented minority students](https://smallpondscience.com/2016/09/05/recruiting-underrepresented-minority-students/)
+[Small Pond Science: Recruiting underrepresented minority students](https://smallpondscience.com/2016/09/05/recruiting-underrepresented-minority-students/)  
 [Phelps Lab: A template for (nearly) painless writing in 10 steps](http://www.phelpslab.net/writing/)  
 [Hall Lab student resources](http://www.indiana.edu/~halllab/grad-student-resources.html)  
 [Colin Purrington's notes on poster design](http://colinpurrington.com/tips/academic/posterdesign)  
