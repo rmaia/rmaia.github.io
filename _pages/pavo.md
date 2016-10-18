@@ -9,9 +9,9 @@ permalink: /pavo/
 
 ## Updates (current version: 0.5-5, 09/03/2016)
 
-We're very pleased to welcome [Thomas White](http://tomwhite.io/) to our development team! Tom is helping us make some changes for the big update coming soon, as well as [incorporating additional visual models](https://github.com/thomased/colsci) to the package.
+**Need help with pavo?** The package now has a Gitter page - a public chat room where we will promptly be answering any questions and making announcements about package development. Joining is easy, quick and free: [![Join the chat at https://gitter.im/r-pavo/help](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/r-pavo/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-_IMPORTANT: Please update to the latest version. Note that a bug has been detected in previous versions when using the “vissyst()” function (and anything downstream) and the blue tit visual system. This bug has been fixed, but please make sure to always check the output of your results. All other input options, including other visual systems, should be working as expected. If you have any questions, please e-mail me._
+We're very pleased to welcome [Thomas White](http://tomwhite.io/) to our development team! Tom is helping us make some changes for the big update coming soon, as well as [incorporating additional visual models](https://github.com/thomased/colsci) to the package.
 
 **citing pavo.** the manuscript describing the package is:
 Maia, R; Eliason, CM; Bitton, P-P, Doucet, SM & Shawkey, MD. pavo: an R package for the analysis, visualization and organization of spectral data. Methods in Ecology and Evolution, 4(10):906-913. [doi: 10.1111/2041-210X.12069](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract)
