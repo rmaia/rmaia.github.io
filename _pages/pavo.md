@@ -7,9 +7,9 @@ permalink: /pavo/
 
 # pavo: Perceptual Analysis, Visualization and Organization of Spectral Color Data in R
 
-## Updates (current version: 0.5-5, 09/03/2016)
+## Updates (current version: 0.5-6, 10/20/2016)
 
-**Need help with pavo?** The package now has a Gitter page - a public chat room where we will promptly be answering any questions and making announcements about package development. Joining is easy, quick and free: [![Join the chat at https://gitter.im/r-pavo/help](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/r-pavo/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+**Need help with pavo? Just click on the "open chat" button below!** The package now has a Gitter page - a public chat room where we will promptly be answering any questions and making announcements about package development. [![Join the chat at https://gitter.im/r-pavo/help](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/r-pavo/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 We're very pleased to welcome [Thomas White](http://tomwhite.io/) to our development team! Tom is helping us make some changes for the big update coming soon, as well as [incorporating additional visual models](https://github.com/thomased/colsci) to the package.
 
