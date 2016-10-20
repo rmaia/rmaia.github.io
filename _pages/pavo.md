@@ -20,6 +20,13 @@ Maia, R; Eliason, CM; Bitton, P-P, Doucet, SM & Shawkey, MD. pavo: an R package 
 [package vignette](/pdf/pavo.pdf) (temporarily removed from CRAN release)  
 [manual](https://cran.r-project.org/web/packages/pavo/pavo.pdf) for implemented functions  
 
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'r-pavo/help'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+
 ## About pavo
 
 <img align="left" style="padding-right:25px" src="/images/pavoplot.jpg">
