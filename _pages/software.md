@@ -9,7 +9,7 @@ permalink: /software/
 
 [**rEbird**](/rebird/): a programmatic interface to the eBird database
 
-[thin-film & multilayer models](http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S203) for simulating color produced by organized structures
+[thin-film & multilayer models](http://rsif.royalsocietypublishing.org/content/early/2009/02/09/rsif.2008.0460.focus.figures-only) for simulating color produced by organized structures
 
 [Gists](https://gist.github.com/rmaia): functions and code for easy access or currently under work.
 
