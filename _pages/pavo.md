@@ -19,7 +19,7 @@ Pavo 1.0.0 is the first major update of pavo since its first release. Find out m
 We're very pleased to welcome [Thomas White](http://tomwhite.io/) to our development team! Tom is helping us make some changes for the big update coming soon, as well as [incorporating additional visual models](https://github.com/thomased/colsci) to the package.
 
 **citing pavo.** the manuscript describing the package is:
-Maia, R; Eliason, CM; Bitton, P-P, Doucet, SM & Shawkey, MD. pavo: an R package for the analysis, visualization and organization of spectral data. Methods in Ecology and Evolution, 4(10):906-913. [doi: 10.1111/2041-210X.12069](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract)
+Maia, R., Eliason, C.M., Bitton, P.-P., Doucet, S.M. & Shawkey, M.D. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. Methods in Ecology and Evolution, 4(10):906-913. [doi: 10.1111/2041-210X.12069](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12069/abstract)
 
 [pavo on CRAN](https://cran.r-project.org/web/packages/pavo/index.html)  
 [manual](https://cran.r-project.org/web/packages/pavo/pavo.pdf) for implemented functions  
