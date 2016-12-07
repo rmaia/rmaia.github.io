@@ -9,7 +9,7 @@ permalink: /pavo/
 
 ## Updates (current version: 1.0.0, 12/05/2016)  
 
-Pavo 1.0.0 is he first major new version of pavo since its first release. Find out more:  
+Pavo 1.0.0 is the first major update of pavo since its first release. Find out more:  
 
 * [What's new on pavo 1.0.0](../pavo-vig-1_0.html)
 * [Pavo vignette](../pavo-vig.html)
