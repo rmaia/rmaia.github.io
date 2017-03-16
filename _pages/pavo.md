@@ -7,7 +7,7 @@ permalink: /pavo/
 
 # pavo: Perceptual Analysis, Visualization and Organization of Spectral Color Data in R
 
-## Updates (current version: 1.0.0, 12/05/2016)  
+## Updates (current version: 1.0.1, 03/15/2017)  
 
 Pavo 1.0.0 is the first major update of pavo since its first release. Find out more:  
 
