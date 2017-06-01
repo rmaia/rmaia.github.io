@@ -24,7 +24,7 @@ sidebar:
 <!-- <img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg"> -->
 
 <div data-badge-type="4" data-doi="10.1086/692326" data-hide-no-mentions="true" class="altmetric-embed"></div>
-Uyeda, J.C., Pennell, M.W., Miller, E.T., **Maia, R.**,and McClain, C.R. 2017. The evolution of energetic scaling across the vertebrate Tree of Life [_The American Naturalist_, In Press.](http://dx.doi.org/10.1086/692326) (\*equal contribution) [[pdf]](/pdf/2017-Uyedaetal-AmNat.pdf)
+Uyeda, J.C., Pennell, M.W., Miller, E.T., **Maia, R.**,and McClain, C.R. 2017. The evolution of energetic scaling across the vertebrate Tree of Life [_The American Naturalist_, In Press.](http://dx.doi.org/10.1086/692326) [[pdf]](/pdf/2017-Uyedaetal-AmNat.pdf)
 
 
 <div data-badge-type="4" data-doi="10.1098/rspb.2016.0687" data-hide-no-mentions="true" class="altmetric-embed"></div>
