@@ -5,6 +5,7 @@ author_profile: true
 permalink: /software/
 ---
 
+<img align="left" style="padding-left:20px; width:290px" src="/images/animatedtetra.gif"> 
 [**pavo**](/pavo/): an R package for the organization, visualization and analysis of spectral color data
 
 [**rEbird**](/rebird/): a programmatic interface to the eBird database

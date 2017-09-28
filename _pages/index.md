@@ -4,12 +4,12 @@ title: Rafael Maia
 author_profile: true
 permalink: /
 ---
-<img align="left" style="padding-right:20px; width:290px" src="/images/logo.png"> 
+<img align="left" style="padding-right:20px; width:250px" src="/images/logo.png"> 
 I am a [Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/junior-fellows/) in the [Department of Ecology, Evolution and Environmental Biology at Columbia University](http://www.columbia.edu/cu/e3b/), working in the [Rubenstein Lab](http://www.columbia.edu/~dr2497/HOME.html). Before that I was a Postdoctoral Fellow in [Luke Harmon's lab at the University of Idaho](http://www.webpages.uidaho.edu/~lukeh/), after finishing my PhD in [Integrated Bioscience at the University of Akron](http://www.uakron.edu/id/ib/), under the supervision of [Matthew Shawkey](http://gozips.uakron.edu/~shawkey/), studying how structural colors are produced in the animal integument, with a focus on bird feathers.
 <br>
 <br>
 <img align="right" style="padding-left:20px; width:290px" src="/images/Starling-Poster-WEB.jpg">
-<img align="right" style="padding-left:20px; width:290px" src="/images/animatedtetra.gif"> Iridescent colors are among the brightest, most dazzling and diverse visual signals found in animals. My research focuses on how the nanometer-level organization of structures responsible for producing these colors takes place during feather development, and how this template can be explored to expand the avian color palette and facilitate the diversification of sexually-selected ornaments.
+Iridescent colors are among the brightest, most dazzling and diverse visual signals found in animals. My research focuses on how the nanometer-level organization of structures responsible for producing these colors takes place during feather development, and how this template can be explored to expand the avian color palette and facilitate the diversification of sexually-selected ornaments.
 <br>
 <br>
 
