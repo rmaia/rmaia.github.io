@@ -21,6 +21,6 @@ CV and info:
 <br>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/hylopsar">@hylopsar</a>&#39;s talk on bird coloration evolution was so engaging that a tiny bird (left) came to listen! <a href="https://twitter.com/hashtag/evol2016?src=hash">#evol2016</a> <a href="https://t.co/hzqHDrDTMw">pic.twitter.com/hzqHDrDTMw</a></p>&mdash; Shana Caro (@ShanaCaro) <a href="https://twitter.com/ShanaCaro/status/744233162474037248">June 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p style="font-size:12px"><i>carreer highlight: reaching out to the avian audience!</i></p>
+<p style="font-size:12px"><i>carreer highlight: reaching the avian audience!</i></p>
 
 
