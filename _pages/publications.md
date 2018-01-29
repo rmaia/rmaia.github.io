@@ -23,7 +23,7 @@ sidebar:
 <!-- <img align="right" style="padding-left:25px" src="/images/drawer.jpg">-->
 <!-- <img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg"> -->
 
-**Maia R.**, White T. Comparing colours using visual models. Submitted. ([Preprint on BioRxiv](http://dx.doi.org/10.1101/175992))
+**Maia R.**, White T. Comparing colours using visual models. Accepted. ([Preprint on BioRxiv](http://dx.doi.org/10.1101/175992))
 
 <div data-badge-type="4" data-doi="10.1111/ele.12857" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Brooks K.C., **Maia R.**, Duffy J.E., Hultgren K.M. and Rubenstein D.R. Ecological generalism facilitates the evolution of sociality in snapping shrimps. [_Ecology Letters_ 20:1516-1525.](http://dx.doi.org/10.1111/ele.12857) [[pdf]](/pdf/2017-Brooksetal-EcoLett.pdf)
