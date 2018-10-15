@@ -23,7 +23,7 @@ sidebar:
 <!-- <img align="right" style="padding-left:25px" src="/images/drawer.jpg">-->
 <!-- <img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg"> -->
 
-<div data-badge-type="4" data-doi="10.1093/beheco/ary017" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-type="4" data-doi="10.1101/427658" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia R.**, Gruson, H., Endler, J.A. and White T. pavo 2.0: new tools for the spectral and spatial analysis of colour in R. [Submitted, preprint available from BioRxiv](https://www.biorxiv.org/content/early/2018/09/26/427658)
 
 <div data-badge-type="4" data-doi="10.1093/beheco/ary017" data-hide-no-mentions="true" class="altmetric-embed"></div>
