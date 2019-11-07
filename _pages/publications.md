@@ -23,11 +23,13 @@ sidebar:
 <!-- <img align="right" style="padding-left:25px" src="/images/drawer.jpg">-->
 <!-- <img align="left" style="padding-right:25px; width:200px" src="http://www.methodsinecologyandevolution.org/SpringboardWebApp/userfiles/mee/image/Covers/mee-4-10-coverlarge.jpg"> -->
 
-<div data-badge-type="4" data-doi="10.1101/427658" data-hide-no-mentions="true" class="altmetric-embed"></div>
-**Maia R.**, Gruson, H., Endler, J.A. and White T. pavo 2.0: new tools for the spectral and spatial analysis of colour in R. [Submitted, preprint available from BioRxiv](https://www.biorxiv.org/content/early/2018/09/26/427658)
+<div data-badge-type="4" data-doi="10.21105/joss.01857" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Gruson H., White T, **Maia R.** lightr: import spectral data and metadata in R. [_Journal of Open Software_ 4:1857](https://joss.theoj.org/papers/10.21105/joss.01857)
+
+**Maia R.**, Gruson, H., Endler, J.A. and White T. pavo 2.0: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_ 101:097-1107.](https://doi.org/10.1111/2041-210X.13174)
 
 <div data-badge-type="4" data-doi="10.1093/beheco/ary017" data-hide-no-mentions="true" class="altmetric-embed"></div>
-**Maia R.** and White T. Comparing colours using visual models. [Behavioral Ecology_ 29:649-659.](https://doi.org/10.1093/beheco/ary017) [[pdf]](/pdf/2018-MaiaWhite-BehEco.pdf)
+**Maia R.** and White T. Comparing colours using visual models. [_Behavioral Ecology_ 29:649-659.](https://doi.org/10.1093/beheco/ary017) [[pdf]](/pdf/2018-MaiaWhite-BehEco.pdf)
 
 <div data-badge-type="4" data-doi="10.1111/ele.12857" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Brooks K.C., **Maia R.**, Duffy J.E., Hultgren K.M. and Rubenstein D.R. Ecological generalism facilitates the evolution of sociality in snapping shrimps. [_Ecology Letters_ 20:1516-1525.](http://dx.doi.org/10.1111/ele.12857) [[pdf]](/pdf/2017-Brooksetal-EcoLett.pdf)
