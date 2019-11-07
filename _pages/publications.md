@@ -26,6 +26,7 @@ sidebar:
 <div data-badge-type="4" data-doi="10.21105/joss.01857" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Gruson H., White T, **Maia R.** lightr: import spectral data and metadata in R. [_Journal of Open Software_ 4:1857](https://joss.theoj.org/papers/10.21105/joss.01857)
 
+<div data-badge-type="4" data-doi="10.1111/2041-210X.13174" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Maia R.**, Gruson, H., Endler, J.A. and White T. pavo 2.0: new tools for the spectral and spatial analysis of colour in R. [_Methods in Ecology and Evolution_ 101:097-1107.](https://doi.org/10.1111/2041-210X.13174)
 
 <div data-badge-type="4" data-doi="10.1093/beheco/ary017" data-hide-no-mentions="true" class="altmetric-embed"></div>
