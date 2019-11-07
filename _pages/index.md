@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-I am a recovering academic making the exciting transition into Data Science. I am currently a Data Science fellow at Insight Data Science in the San Francisco Bay Area. My project uses Natural Language Processing to give recommendations of odd and overlooked travel destinations (scraped from [Atlas Obscura](https://www.atlasobscura.com/)) based on their textual similarity. Check out [the app demo](http://insight.rafaelmaia.net) and the [presentation slides](http://insight.rafaelmaia.net/slides)!
+Senior Data Scientist at Instacart. Before that, Data Science fellow at Insight Data Science in the San Francisco Bay Area. My project used Natural Language Processing to give recommendations of odd and overlooked travel destinations (scraped from [Atlas Obscura](https://www.atlasobscura.com/)) based on their textual similarity. [[presentation slides](http://insight.rafaelmaia.net/slides)]
 
 Previously, I was a [Junior Fellow of the Simons Society of Fellows](https://www.simonsfoundation.org/simons-society-of-fellows) in [Dustin Rubenstein's lab](http://e3b.columbia.edu/faculty/dustin-r-rubenstein/) at Columbia University, after a quick stint in [Luke Harmon's lab](http://lukejharmon.github.io/) at the University of Idaho and a PhD in Integrated Biosciences in [Matthew Shawkey's lab](https://www.mattshawkey.com/) at The University of Akron.
 
